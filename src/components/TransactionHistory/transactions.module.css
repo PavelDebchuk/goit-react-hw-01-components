@@ -1,0 +1,27 @@
+.transactionHistory {
+  margin: 100px auto;
+  text-align: center;
+}
+
+.tableTitle {
+  background: #00bcd5;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.tableInfo {
+  font-size: 22px;
+  color: rgb(77, 77, 77);
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.tableInfo:nth-child(2n) {
+  background: #69686836;
+}
+
+.tableTh {
+  padding: 8px 80px;
+}
