@@ -18,7 +18,7 @@
   text-transform: capitalize;
 }
 
-.tableInfo:nth-child(2n) {
+.backgroundSilver:nth-child(2n) {
   background: #69686836;
 }
 

@@ -1,13 +1,10 @@
 .Profile {
-  /* display: flex; */
-  /* flex-direction: column; */
   background-color: hsl(213, 30%, 93%);
   margin: 0 22%;
   text-align: center;
 }
 
 .Description {
-  /* margin: 0 auto; */
   padding-top: 40px;
 }
 .Avatar {
